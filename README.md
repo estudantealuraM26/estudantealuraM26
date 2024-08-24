@@ -1,9 +1,10 @@
-## Hi there 👋
+### boas vindas ao perfil:
 
-<!--
-**estudantealuraM26/estudantealuraM26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+o meu nome é "matheus gaspar"
 
-Here are some ideas to get you started:
+estou desenvolvendo SCRATCH e java script
+
+_![..]()
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
